@@ -1,0 +1,8 @@
+{
+    "auth": {
+        "email": "your email",
+        "password": "your password"
+    },
+    "check_interval_in_minutes": 2,
+    "price": 500
+}
